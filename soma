@@ -3,5 +3,6 @@ int a,b,c;
 scanf ("%d%d", &a, &b);
 c = b+a;
 printf ("%d", c);
+gbkjk
 printf ("voce somou 2 numeros");
 }
